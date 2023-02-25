@@ -12,4 +12,4 @@ const products = [
 ];
 
 const cheap = products.find(product => product.price <2000);
-console.log(cheap)
+
